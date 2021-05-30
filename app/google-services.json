@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874144180942",
+    "project_id": "theme-forest-wallpaper",
+    "storage_bucket": "theme-forest-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874144180942:android:91585969a376d19988be9f",
+        "android_client_info": {
+          "package_name": "com.example.themeforestwallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874144180942-udkf0r633o14bnrpdivphcqkk4rte95o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB10AFtZFkmGLdiia3YnaLMk1RXiIUkahk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874144180942-udkf0r633o14bnrpdivphcqkk4rte95o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
