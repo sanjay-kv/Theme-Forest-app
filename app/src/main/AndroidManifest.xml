@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.themeforestwallpaper">
+    package="com.theme_forest.themeforestwallpaper">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -11,8 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ThemeForestWallpaper">
-        <activity android:name=".FullimageActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.theme_forest.themeforestwallpaper.FullimageActivity"></activity>
+        <activity android:name="com.theme_forest.themeforestwallpaper.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

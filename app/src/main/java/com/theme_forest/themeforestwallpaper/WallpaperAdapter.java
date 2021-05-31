@@ -1,4 +1,4 @@
-package com.example.themeforestwallpaper;
+package com.theme_forest.themeforestwallpaper;
 
 import android.content.Context;
 import android.content.Intent;

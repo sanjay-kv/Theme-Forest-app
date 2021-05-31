@@ -1,4 +1,4 @@
-package com.example.themeforestwallpaper;
+package com.theme_forest.themeforestwallpaper;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
